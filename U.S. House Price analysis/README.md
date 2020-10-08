@@ -1,1 +1,1 @@
-This project is a completed house-price EDA and time-series analysis project based on Zillow "House_Price_Value" data
+This project is a comprehensive house-price EDA and time-series analysis project which is based on Zillow "House_Price_Value" data
